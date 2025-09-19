@@ -1,2 +1,10 @@
-# myfirstrepo
-learningdepopswithgithup
+Bhaskar
+BSC-COMPUTER SCINCE
+I LEARN ABOUT WHAT IS DEVOPS AND LIFE CYCLE OF DEVOPS AND ABOUT THE GIT HUB BHASKAR
+
+
+
+
+
+
+
